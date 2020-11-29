@@ -130,4 +130,5 @@ dmypy.json
 
 # Other
 backup/
+largedata/
 
