@@ -1,11 +1,16 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
+# Data
+datasets/*
+data/*
+!datasets/README.md
+!data/README.md
 
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
 # Other
 backup/
-largedata/
-datasets/
+twitter/private/
